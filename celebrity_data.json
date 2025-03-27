@@ -1,0 +1,84 @@
+{
+  "celebrities": [
+    {
+      "name": "Ajda Pekkan",
+      "profession": "Singer",
+      "platform": "Twitter",
+      "supportType": "Public endorsement",
+      "description": "A famous Turkish singer who has publicly supported Erdogan's government policies.",
+      "imageUrl": "https://example.com/ajda_pekkan.jpg"
+    },
+    {
+      "name": "Hülya Avşar",
+      "profession": "Actress",
+      "platform": "Instagram",
+      "supportType": "Campaign appearance",
+      "description": "Popular actress who has appeared at Erdogan's campaign events and expressed support for government initiatives.",
+      "imageUrl": "https://example.com/hulya_avsar.jpg"
+    },
+    {
+      "name": "Burak Özçivit",
+      "profession": "Actor",
+      "platform": "Instagram",
+      "supportType": "Social media support",
+      "description": "Famous Turkish actor known for his roles in popular TV series who has shown support for government policies on social media.",
+      "imageUrl": "https://example.com/burak_ozcivit.jpg"
+    },
+    {
+      "name": "Acun Ilıcalı",
+      "profession": "TV Producer",
+      "platform": "Twitter",
+      "supportType": "Public statements",
+      "description": "Influential media mogul and TV producer who has made supportive statements about the government.",
+      "imageUrl": "https://example.com/acun_ilicali.jpg"
+    },
+    {
+      "name": "Hadise",
+      "profession": "Singer",
+      "platform": "Instagram",
+      "supportType": "Event attendance",
+      "description": "Popular singer who has attended government-sponsored events and shown support for official policies.",
+      "imageUrl": "https://example.com/hadise.jpg"
+    },
+    {
+      "name": "Murat Boz",
+      "profession": "Singer",
+      "platform": "Twitter",
+      "supportType": "Public endorsement",
+      "description": "Well-known singer who has publicly endorsed Erdogan during elections.",
+      "imageUrl": "https://example.com/murat_boz.jpg"
+    },
+    {
+      "name": "Demet Akalın",
+      "profession": "Singer",
+      "platform": "Twitter",
+      "supportType": "Social media support",
+      "description": "Popular singer who has expressed support for government policies on social media platforms.",
+      "imageUrl": "https://example.com/demet_akalin.jpg"
+    },
+    {
+      "name": "Arda Turan",
+      "profession": "Footballer",
+      "platform": "Instagram",
+      "supportType": "Public endorsement",
+      "description": "Famous footballer who has publicly supported Erdogan and government policies.",
+      "imageUrl": "https://example.com/arda_turan.jpg"
+    },
+    {
+      "name": "İbrahim Tatlıses",
+      "profession": "Singer",
+      "platform": "Twitter",
+      "supportType": "Campaign appearance",
+      "description": "Legendary Turkish singer who has appeared at AKP rallies and supported Erdogan.",
+      "imageUrl": "https://example.com/ibrahim_tatlises.jpg"
+    },
+    {
+      "name": "Bülent Serttaş",
+      "profession": "Singer",
+      "platform": "Twitter",
+      "supportType": "Public statements",
+      "description": "Folk singer who has made public statements supporting the government.",
+      "imageUrl": "https://example.com/bulent_serttas.jpg"
+    }
+  ]
+}

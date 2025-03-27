@@ -1,0 +1,11 @@
+{
+  "homepage": "https://ocalak.github.io/turkish-celebrities-website",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d out",
+    "build": "next build",
+    "export": "next export",
+    "start": "next start",
+    "lint": "next lint"
+  }
+}
